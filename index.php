@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="css/reset.css">
+  <link rel="stylesheet" href="css/style.css">
+  <title>Now Loading...</title>
+</head>
+<header>
+  <h1 class="site_title">Live Play List Questionnaire</h1>
+  <p class="case">case:androp</p>
+</header>
+<body class="index_body">
+  <div class='loader'></div>
+  <div class="loader-text flash">Now Loading...Please Wait</div>
+  <article class="principle sevena">
+    <div class="shape-container">
+      <div class="shape a"></div>
+    </div>
+  </article>
+  <div class="shape_b-container">
+    <div class="shape_b"></div>
+  </div>
+</body>
+<script src="js/redirect.js"></script>
+</html>
