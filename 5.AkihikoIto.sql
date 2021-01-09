@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- ホスト: localhost:3306
--- 生成日時: 2021 年 1 月 09 日 08:56
+-- 生成日時: 2021 年 1 月 09 日 18:51
 -- サーバのバージョン： 5.7.30
 -- PHP のバージョン: 7.4.9
 
@@ -43,7 +43,8 @@ INSERT INTO `gs_bm_table` (`id`, `name`, `song1`, `song2`, `song3`, `comment`, `
 (5, '伊藤彬彦', ' Under The Sun', ' Tonbi', ' Catch Me', 'てすとてすと', 'akihiko19860807@hotmail.com', '2021-01-04 14:27:00'),
 (6, 'てすとです', ' Alpha', ' Kaonashi', ' Tonbi', 'フェードインするようにしたり色々', 'test@gmail.com', '2021-01-06 16:43:16'),
 (17, 'aaa', ' Yurariri', ' RainMan', ' Youth', '', 'aaa@gmail.com', '2021-01-08 18:41:52'),
-(18, 'test', ' Bell', ' RDM', ' Boohoo', '必須項目含んだフォームにどうにかなったような気がする', 'test@gmail.com', '2021-01-09 02:26:31');
+(18, 'test', ' Bell', ' RDM', ' Boohoo', '必須項目含んだフォームにどうにかなったような気がする', 'test@gmail.com', '2021-01-09 02:26:31'),
+(19, 'test', ' Glider', ' Voice', ' Youth', 'トップページをhtmlにした', 'test@gmail.com', '2021-01-09 18:46:10');
 
 --
 -- ダンプしたテーブルのインデックス
@@ -63,4 +64,4 @@ ALTER TABLE `gs_bm_table`
 -- テーブルのAUTO_INCREMENT `gs_bm_table`
 --
 ALTER TABLE `gs_bm_table`
-  MODIFY `id` int(12) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=19;
+  MODIFY `id` int(12) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=20;

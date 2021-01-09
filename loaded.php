@@ -24,7 +24,7 @@ $song = explode(",",$songs);
 </head>
 <body>
   <header>
-    <h1 class="site_title"><a href="index.php">Live Play List Questionnaire</a></h1>
+    <h1 class="site_title"><a href="index.html">Live Play List Questionnaire</a></h1>
     <nav class="header_nav">
       <ul class="header_nav_list">
         <a href="data.php"><li class="header_nav_item">Data</li></a>

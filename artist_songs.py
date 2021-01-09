@@ -7,8 +7,8 @@ import sys
 import pprint
 import pandas as pd
 
-client_id = '**************'
-client_secret = '**************'
+client_id = '****************'
+client_secret = '****************'
 artist_id = '7n437ZdDaCzqjJDJ7WmbyX'
 
 # 認証を行う
